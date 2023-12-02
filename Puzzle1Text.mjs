@@ -1,4 +1,4 @@
-const text = `2xjzgsjzfhzhm1
+export const text = `2xjzgsjzfhzhm1
 qhklfjd39rpjxhqtftwopfvrrj2eight
 95btwo
 lfsqldnf3onenplgfxdjzjjnpzfxnineseven
@@ -998,4 +998,3 @@ oneeight2
 8eightnhtqcggtxc6dfsfcjfpznmsthree
 sxfvfdkff8dvlmbdktsixmzpnxzmml2
 9lgmxktj1frxl`
-
