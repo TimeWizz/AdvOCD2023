@@ -1,1 +1,1 @@
-import text from Puzzle1Text.txt 
+import text from Puzzle1Text.js
